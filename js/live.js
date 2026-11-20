@@ -6,8 +6,8 @@
     panel: 'demo/panel/tronco.html?auto=1&variante=resto&marca=8C2D4A',
     norma: 'demo/norma/index.html',
     emp: 'demo/emperador/index.html',
-    web: 'https://chatbot-lab-info.github.io/pastora-demo/?demo=1',
-    mesa: 'https://chatbot-lab-info.github.io/pastora-demo/mesa/?demo=1&mesa=DEMO1234567890ABCDEFGHIJ'
+    web: 'https://somosingenia.github.io/pastora-demo/?demo=1',
+    mesa: 'https://somosingenia.github.io/pastora-demo/mesa/?demo=1&mesa=DEMO1234567890ABCDEFGHIJ'
   };
   var last = null;
   function open(k, title, btn) {
